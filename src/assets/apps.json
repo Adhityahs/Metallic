@@ -58,5 +58,11 @@
       "name": "ChatGPT",
       "icon": "/apps/chatgpt.svg",
       "url": "https://chat.openai.com"
+    }, 
+    {
+      "name": "GeForce Now",
+      "icon": "/apps/GeForce Now.png",
+      "url": "https://play.geforcenow.com/mall/#/layout/games" 
+        
     }
 ]
